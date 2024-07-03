@@ -50,6 +50,7 @@ body{
     color: ghostwhite;
     text-align: center;
     opacity: 0;
+    z-index: 15;
 }
 
 .loader{
